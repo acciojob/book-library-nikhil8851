@@ -2,38 +2,41 @@
 body {
 			
 			font-family: Arial, sans-serif;
+	text-align:center;
+		background-color: #f8f8f8;
 		}
 		.book-library {
 			background-color: #ffffff;
+
+		
 			margin-bottom: 20px; /* added margin bottom */
 		}
-		.book-details {
-			text-align: center;
-		}
+	
 		.book-title {
 			font-size: 18px;
 			font-weight: bold;
 			margin-bottom: 10px;
+			text-align: left;
 		}
 		.book-author {
 			color: #777777;
 			margin-bottom: 10px;
+			text-align:left;
 		}
 		.book{
 			margin-bottom: 50px;
-			background-color: #f8f8f8;
+			
+			
 		}
-		button {
+		.book-price {
 	width: 100%;
 	height: 30px;
 	text-align: center;
-	background-color: #2ecc71; /* This should be the background color */
-	color: white;
+	color: #2ecc71; /* This should be the background color */
 }
 		h1 {
 			width: 100%;
 			height: 100%;
-			text-align: center;
-			background-color: #f8f8f8;
+			
 			
 		}
