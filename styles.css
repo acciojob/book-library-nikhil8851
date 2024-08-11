@@ -30,9 +30,11 @@ body {
 		}
 		.book-price {
 	width: 100%;
+		background-color: #2ecc71;
+
 	height: 30px;
 	text-align: center;
-	color: #2ecc71; /* This should be the background color */
+	color: white; /* This should be the background color */
 }
 		h1 {
 			width: 100%;
