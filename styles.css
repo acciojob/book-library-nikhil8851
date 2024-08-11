@@ -1,32 +1,39 @@
 /*  your css code here. If applicable */
-/* body { */
-	/* background-color: #f8f8f8;
-}
-
-.book-library {
-	background-color: #ffffff;
-	margin-bottom: 20px;
-	padding: 20px;
-}
-
-.book {
-	margin-bottom: 20px;
-}
-
-.book-title {
-	font-size: 18px;
-	font-weight: bold;
-	margin-bottom: 10px;
-}
-
-.book-author {
-	color: #777777;
-	margin-bottom: 10px;
-}
-
-.price-block {
-	background-color: #2ecc71;
-	color: white;
-	padding: 10px;
+body {
+			
+			font-family: Arial, sans-serif;
+		}
+		.book-library {
+			background-color: #ffffff;
+			margin-bottom: 20px; /* added margin bottom */
+		}
+		.book-details {
+			text-align: center;
+		}
+		.book-title {
+			font-size: 18px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		.book-author {
+			color: #777777;
+			margin-bottom: 10px;
+		}
+		.book{
+			margin-bottom: 50px;
+			background-color: #f8f8f8;
+		}
+		button {
+	width: 100%;
+	height: 30px;
 	text-align: center;
-} */
+	background-color: #2ecc71; /* This should be the background color */
+	color: white;
+}
+		h1 {
+			width: 100%;
+			height: 100%;
+			text-align: center;
+			background-color: #f8f8f8;
+			
+		}
